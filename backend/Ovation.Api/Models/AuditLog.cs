@@ -1,0 +1,1 @@
+// EF Core entity — AuditLog

@@ -1,0 +1,1 @@
+// SignalR progress indicator
