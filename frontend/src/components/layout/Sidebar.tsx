@@ -1,1 +1,0 @@
-// Project navigation sidebar

@@ -1,1 +1,0 @@
-// TradePackage, Proposal, Bidder types

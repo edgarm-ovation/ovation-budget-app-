@@ -1,1 +1,0 @@
-// Digital signature pad (canvas)
